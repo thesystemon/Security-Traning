@@ -1,3 +1,12 @@
+# **Security Training Planning**
+
+---
+
+
+
+## This 4 below Services Trainings can Provided by [Sherlocked.com](https://sherlockedsecurity.com/)
+
+
 ### 1. **Phishing Simulations**
 
 * Fake but safe phishing emails are sent to employees.
@@ -40,16 +49,7 @@
 ---
 
 
-
-
-
----
----
----
-
-
-
-# 📘 Security Training Services – Chapter Plan
+# 📘 Security Training Services – Chapter Plan For Nuagecx
 
 ### **Chapter 1: Awareness Training**
 
