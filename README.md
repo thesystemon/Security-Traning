@@ -136,14 +136,6 @@
 
 ---
 
-✅ With this structure, you’ll have **9 chapters = 9 training services** that you can productize and sell.
-✅ Each chapter can be delivered **onsite, virtual-live, or on-demand**.
-✅ Pricing is **flexible** — per day for corporate workshops, or per-user subscription for LMS/micro-learning.
-
----
-
-
-
 
 * **Objective** (why it exists)
 * **Topics covered** (modules & learning outcomes)
