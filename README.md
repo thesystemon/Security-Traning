@@ -82,7 +82,7 @@
 
 ---
 
-# **Chapter 4: Micro-Learning Modules**
+### **Chapter 4: Micro-Learning Modules**
 
 * **Objective:** Continuous awareness with 5–10 min bite-sized lessons.
 * **Topics:** password safety, MFA, safe WiFi, data privacy.
@@ -632,9 +632,7 @@
 ---
 
 
----
-
- **Chapter 4: Micro-Learning Modules**
+# **Chapter 4: Micro-Learning Modules**
 
 ---
 
